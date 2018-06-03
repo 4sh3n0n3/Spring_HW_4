@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 1.6.2//EN"
+        "http://google-web-toolkit.googlecode.com/svn/tags/1.6.2/distro-source/core/src/gwt-module.dtd">
+
+<module rename-to='Core'>
+    <inherits name='com.google.gwt.user.User'/>
+	<inherits name="com.google.gwt.user.theme.chrome.Chrome"/>
+	<inherits name='ru.bagautdinov.oc_module.OCModule'/>
+	<inherits name='ru.bagautdinov.os_module.OSModule'/>
+    <entry-point class='ru.bagautdinov.core.client.CoreEntry'/>
+    <source path="shared/component" />
+    <source path="shared/controller" />
+    <source path="shared/model" />
+    <source path="shared/utils" />
+    <source path="client" />
+</module>

@@ -1,0 +1,12 @@
+ru\bagautdinov\core\shared\component\MathComponent.class
+ru\bagautdinov\os_module\client\OSModuleEntry$1$1.class
+ru\bagautdinov\os_module\client\OSModuleEntry.class
+ru\bagautdinov\core\shared\controller\MainController.class
+ru\bagautdinov\os_module\client\service\MathOperationServiceAsync.class
+ru\bagautdinov\oc_module\client\OCModuleEntry.class
+ru\bagautdinov\os_module\client\OSModuleEntry$1.class
+ru\bagautdinov\core\shared\model\MathOperation.class
+ru\bagautdinov\core\shared\utils\MainForm.class
+ru\bagautdinov\os_module\server\MathOperationServiceImpl.class
+ru\bagautdinov\os_module\client\service\MathOperationService.class
+ru\bagautdinov\core\client\CoreEntry.class
